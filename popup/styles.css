@@ -1,0 +1,33 @@
+html {
+  height: 400px;
+  width: 250px;
+}
+body {
+  background-color: #f6f9f9;
+  font-family: Arial, sans-serif;
+
+  text-align: center;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%
+  margin: 0 auto; 
+}
+
+#clock-button-group {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#clock {
+  text: center;
+  text:
+  font-size: 2em;
+  margin-top: 20px;
+}
+#todo {
+  margin-top: 20px;
+  text-align: left;
+}
